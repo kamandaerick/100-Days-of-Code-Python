@@ -7,7 +7,7 @@ height = input("Height: ")
 weight = input("Weight: ")
 
 """Calculate the BMI and print result as an integer"""
-bmi = float(weight) / (float(height) ** 2)
+bmi = float(weight) // (float(height) ** 2)
 
 """Print the bmi"""
 print(int(bmi))

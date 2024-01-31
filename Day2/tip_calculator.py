@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """This calculator calculates the bill to be paid by each person
 based on the percentage of tip they choose"""
 
